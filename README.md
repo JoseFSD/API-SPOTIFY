@@ -26,7 +26,8 @@ OJO! Si deseas descargar el código debes tener en cuenta lo siguiente:
 2. crearte una cuenta en la web para desarrolladores de spotify https://developer.spotify.com/
 3. una vez creada esta cuenta te facilitarán: unas credenciales, que son client_id y client_secret
 4. con estas credenciales podrás conseguir el token que necesitarás actualizar en la API, ya que expira en 1 hora y está vinculado a mi cuenta de desarrollador. 
-   Una vez tengas el token, tendrás que actualizar la constante de nombre "token" que hay en el archivo cuyo path es el siguiente "src/app/services/spotify.service.ts".            Sustituyes el string por el token que te han facilitado y ya deberías tener acceso a la API de sportify durante 1 hora. Cuando te expire, vuelves a solicitar otro token.
+   Una vez tengas el token, tendrás que actualizar la constante de nombre "token" que hay en el archivo cuyo path es el siguiente "src/app/services/spotify.service.ts".
+   Sustituyes el string por el token que te han facilitado y ya deberías tener acceso a la API de sportify durante 1 hora. Cuando te expire, vuelves a solicitar otro token.
 5. Para solicitar el token, yo usé la herramienta POSTMAN y debes hacer lo siguiente:
    - Realizar una petición POST a esta url https://accounts.spotify.com/api/token
    - Enviar a través del BODY/ x-www-form-urlencoded los siguientes parámetros:
