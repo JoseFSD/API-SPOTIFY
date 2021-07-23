@@ -20,6 +20,7 @@ Para completar este ejerciciose ha utilizado la siguiente estructura, librerías
 - Personalización de algunos estilos y animaciones con CSS
 
 OJO! Si deseas descargar el código debes de tener en cuenta lo siguiente:
+0. el código está alojado en la rama MASTER del repositorio, no en la main, deberás cambiarte a la rama master
 1. npm install
 2. crearte una cuenta en la web para desarrolladores de spotify https://developer.spotify.com/
 3. una vez creada esta cuenta te facilitarán: unas credenciales, que son client_id y client_secret
