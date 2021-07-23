@@ -32,7 +32,7 @@ OJO! Si deseas descargar el código debes tener en cuenta lo siguiente:
    - Enviar a través del BODY/ x-www-form-urlencoded los siguientes parámetros:
    
       KEY           |  VALUE
-      ***********************************
+      ************** ********************
       grant_type    |  client_credentials
       client_id     |  (aquí introduces el client id que te dieron con las credenciales en el registro)
       client_secret |  (aquí introduces el client secret que te dieron con las credenciales en el registro)
