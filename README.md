@@ -19,7 +19,7 @@ Para completar este ejercicio se ha utilizado la siguiente estructura, librería
 - Incluir librería de Bootstrap
 - Personalización de algunos estilos y animaciones con CSS
 
-OJO! Si deseas descargar el código debes de tener en cuenta lo siguiente:
+OJO! Si deseas descargar el código debes tener en cuenta lo siguiente:
 0. el código está alojado en la rama MASTER del repositorio, no en la main, deberás cambiarte a la rama master
 1. npm install
 2. crearte una cuenta en la web para desarrolladores de spotify https://developer.spotify.com/
