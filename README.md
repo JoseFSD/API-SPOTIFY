@@ -2,7 +2,7 @@
 Creación de una API con Angular que se conecta al API-RESTFul de Spotify
 
 
-Para completar este ejerciciose ha utilizado la siguiente estructura, librerías y métodos:
+Para completar este ejercicio se ha utilizado la siguiente estructura, librerías y métodos:
 
 - Componentes:
   1. home
